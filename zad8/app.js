@@ -1,10 +1,10 @@
 const config = {
-    apiKey: "AIzaSyBOA8VWhygsxwc7jW6B2wVhOstgq_BnrOA",
+    apiKey: "",
     authDomain: "",
-    databaseURL: "https://myfirstproject-9b0d7.firebaseio.com",
-    projectId: "myfirstproject-9b0d7",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
-    messagingSenderId: "1011109052912"
+    messagingSenderId: ""
 };
 
 firebase.initializeApp(config);
